@@ -15,7 +15,7 @@ Gamma.jar
 GammaTest.jar
 
 # Supported Commands
-Once the file is downloaded locally, and go into the Gamma folder, then the following command is executed in Windows PowerShell to run the project， requires a local installation of java 1.8.
+Once the file is downloaded locally, and go into the Gamma folder, then the following command is executed in Windows PowerShell to run the project, requires a local installation of java 1.8
 ## Run the gamma function calculator code using the Gamma.jar package
 ```
 java -jar .\Gamma.jar
